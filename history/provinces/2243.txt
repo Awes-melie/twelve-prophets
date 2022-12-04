@@ -1,0 +1,5 @@
+is_city = yes
+owner = CPK
+controller = CPK
+add_core = CPK
+culture = nover

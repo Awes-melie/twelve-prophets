@@ -1,0 +1,9 @@
+base_tax = 3
+base_manpower = 2
+base_production = 4
+is_city = yes
+owner = MLD
+controller = MLD
+hre = yes
+add_core = MLD
+culture = masulinic

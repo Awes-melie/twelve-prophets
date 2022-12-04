@@ -1,0 +1,10 @@
+base_tax = 6
+base_manpower = 5
+base_production = 6
+is_city = yes
+fort_15th = yes
+owner = IAG
+controller = IAG
+hre = yes
+add_core = IAG
+culture = nazlak

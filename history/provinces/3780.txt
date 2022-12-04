@@ -1,0 +1,10 @@
+base_tax = 7
+base_manpower = 6
+base_production = 6
+is_city = yes
+fort_15th = yes
+owner = NHR
+controller = NHR
+hre = yes
+add_core = NHR
+culture = nihra

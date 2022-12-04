@@ -1,0 +1,8 @@
+base_tax = 3
+base_manpower = 1
+base_production = 3
+is_city = yes
+owner = ORH
+controller = ORH
+culture = kasulinic
+add_core = ORH

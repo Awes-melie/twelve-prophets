@@ -1,0 +1,5 @@
+is_city = yes
+owner = VEN
+controller = VEN
+add_core = VEN
+culture = flumbrik

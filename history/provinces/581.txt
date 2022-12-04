@@ -1,0 +1,8 @@
+base_tax = 2
+base_manpower = 2
+is_city = yes
+hre = yes
+culture = inevar
+add_core = ORH
+owner = ORH
+controller = ORH

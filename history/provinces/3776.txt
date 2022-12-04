@@ -1,0 +1,8 @@
+base_tax = 4
+base_manpower = 3
+base_production = 3
+is_city = yes
+owner = MLN
+controller = MLN
+add_core = MLN
+culture = ambric

@@ -1,0 +1,5 @@
+is_city = yes
+culture = hebrem
+add_core = JEM
+owner = JEM
+controller = JEM

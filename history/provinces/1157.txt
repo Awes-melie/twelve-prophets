@@ -1,0 +1,9 @@
+base_tax = 5
+base_manpower = 6
+base_production = 4
+is_city = yes
+owner = DTS
+controller = DTS
+hre = yes
+add_core = DTS
+culture = ponkami

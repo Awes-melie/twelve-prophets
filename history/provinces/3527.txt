@@ -1,0 +1,12 @@
+base_tax = 6
+base_manpower = 6
+base_production = 7
+is_city = yes
+trade_goods = chinaware
+fort_15th = yes
+owner = AEN
+controller = AEN
+add_core = AEN
+add_core = TMK
+culture = aener
+hre = yes

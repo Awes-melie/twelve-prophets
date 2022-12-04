@@ -1,0 +1,8 @@
+base_tax = 4
+base_manpower = 4
+base_production = 6
+is_city = yes
+owner = AEN
+controller = AEN
+add_core = AEN
+culture = dulek

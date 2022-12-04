@@ -1,0 +1,5 @@
+is_city = yes
+owner = TBL
+controller = TBL
+add_core = TBL
+culture = manam

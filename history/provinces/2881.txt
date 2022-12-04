@@ -1,0 +1,11 @@
+base_tax = 5
+base_manpower = 5
+base_production = 4
+is_city = yes
+fort_15th = yes
+owner = SLD
+controller = SLD
+hre = yes
+add_core = SLD
+add_core = MLD
+culture = suladiri

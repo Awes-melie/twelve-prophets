@@ -1,0 +1,5 @@
+is_city = yes
+owner = AEN
+controller = AEN
+add_core = AEN
+culture = aener

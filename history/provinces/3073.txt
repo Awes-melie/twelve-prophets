@@ -1,0 +1,9 @@
+base_tax = 6
+base_manpower = 5
+base_production = 3
+is_city = yes
+owner = SAL
+controller = SAL
+hre = yes
+culture = inevar
+add_core = SAL

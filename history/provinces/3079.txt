@@ -1,0 +1,8 @@
+is_city = yes
+owner = KFK
+controller = KFK
+culture = kefekler
+add_core = KFK
+base_tax = 1
+base_manpower = 1
+base_production = 1

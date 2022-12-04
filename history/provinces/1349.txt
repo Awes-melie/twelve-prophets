@@ -1,0 +1,9 @@
+base_tax = 5
+base_manpower = 6
+base_production = 4
+is_city = yes
+owner = MMR
+controller = MMR
+hre = yes
+add_core = MMR
+culture = prebener

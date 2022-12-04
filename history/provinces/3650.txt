@@ -1,0 +1,9 @@
+base_tax = 4
+base_manpower = 3
+base_production = 3
+is_city = yes
+owner = IAG
+controller = IAG
+hre = yes
+add_core = IAG
+culture = korbur

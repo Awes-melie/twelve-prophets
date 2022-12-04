@@ -1,0 +1,9 @@
+base_tax = 5
+base_manpower = 4
+base_production = 4
+is_city = yes
+owner = NHR
+controller = NHR
+hre = yes
+add_core = NHR
+culture = alighara

@@ -1,0 +1,11 @@
+base_tax = 1
+base_manpower = 1
+base_production = 1
+is_city = yes
+owner = AEN
+controller = AEN
+add_core = AEN
+add_core = TMK
+discovered_by = western
+culture = aener
+hre = yes

@@ -1,0 +1,8 @@
+base_tax = 2
+base_manpower = 2
+base_production = 1
+is_city = yes
+culture = kabrimav
+add_core = VEN
+owner = VEN
+controller = VEN

@@ -1,0 +1,5 @@
+is_city = yes
+culture = dhevelak
+add_core = VEN
+owner = VEN
+controller = VEN

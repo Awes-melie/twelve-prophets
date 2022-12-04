@@ -1,0 +1,9 @@
+base_tax = 7
+base_manpower = 4
+base_production = 4
+is_city = yes
+owner = OGR
+controller = OGR
+hre = yes
+add_core = OGR
+culture = ponter

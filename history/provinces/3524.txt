@@ -1,0 +1,5 @@
+is_city = yes
+culture = dulek
+base_tax = 1
+base_manpower = 2
+base_production = 1

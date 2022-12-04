@@ -1,0 +1,174 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+#
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+#
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+
+
+#westerngfx ==============================================================================================================
+
+kaan = {
+	graphical_culture = westerngfx
+	kasulinic = {
+		
+	}
+	masulinic = {
+
+	}
+	suladiri = {
+
+	}
+}
+
+pon ={
+	graphical_culture = westerngfx
+	ponter = {
+
+	}
+	alighara = { # River
+
+	}
+	decheval = { # Desert
+
+	}
+	inevar = { # Plains
+
+	}
+	vaener = {}
+}
+
+alemak = {
+	malem ={
+
+	}
+	dicene = {
+
+	}
+	toremar = {
+
+	}
+	dhevelak = {
+
+	}
+	gedan = {
+
+	}
+}
+
+#easterngfx ==============================================================================================================
+
+dendaran = {
+	graphical_culture = easterngfx
+	aener = {
+		primary = AEN
+	}
+	niter = { # valley
+
+	}
+	nazlak = { # Aromatic kingdoms
+
+	}
+	inew = {
+
+	}
+	nover = {}
+
+}
+
+#muslimgfx ==============================================================================================================
+
+eveol = {
+	alvev = {} # Northhillser
+	fuer = {} # GHRC
+}
+
+
+meomric = {
+	prebener = {
+		primary = MMR
+	}
+	ponkami = { # Surrounrs
+
+	}
+	amilemar = { # Desert
+
+	}
+}
+
+ultivar = {
+	olami = {}
+	omaconori = {} #Bird Ppl
+}
+
+#southamericangfx ==============================================================================================================
+
+ulkal = {
+	ulagan = {}
+	tegan = {}
+	sengt = {}
+}
+
+ularam = {
+	flumbrik = {}
+	desham = {}
+	grunham = {}
+}
+
+#northamericangfx ==============================================================================================================
+
+kamathelis = {
+	ambric = {}
+	tolgeri = {}
+	kamaliner = {} #Northwood
+}
+
+#innuitgfx ==============================================================================================================
+
+hjembri - {
+	jem = {}
+	mav = {}
+	hebrem = {} # Islanders
+	kabrimav = {} # Tip boios
+}
+
+#southeastasiangfx ==============================================================================================================
+#polynesiangfx ==============================================================================================================
+
+ruinfolk = {
+	kamtevaln = {}
+	segevaln ={}
+	devaln = {}
+	dulek = {}
+}
+
+#aboriginalgfx ==============================================================================================================
+#africangfx ==============================================================================================================
+
+demugari = {
+	amnami = {}
+	iseliem = {}
+	talien = {}
+}
+
+#indiangfx ==============================================================================================================
+#asiangfx ==============================================================================================================
+
+alari = {
+	tejeti = {
+		primary = TJT
+	}
+	kefekler = {
+		primary = KFK 
+	}
+	korbur = {}
+	tober = {}
+	nihra ={}
+	manam = {}
+}
+
+#(Beastfolk)
+

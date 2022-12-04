@@ -1,0 +1,9 @@
+base_tax = 3
+base_manpower = 1
+base_production = 1
+owner = KHJ
+hre = yes
+controller = KHJ
+is_city = no
+add_core = KHJ
+culture = tejeti

@@ -1,0 +1,8 @@
+base_tax = 2
+base_manpower = 2
+base_production = 2
+is_city = yes
+owner = BDR
+controller = BDR
+culture = fuer
+add_core = BDR

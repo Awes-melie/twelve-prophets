@@ -1,0 +1,9 @@
+base_tax = 5
+base_manpower = 5
+base_production = 4
+is_city = yes
+owner = NHR
+controller = NHR
+hre = yes
+culture = dhevelak
+add_core = NHR

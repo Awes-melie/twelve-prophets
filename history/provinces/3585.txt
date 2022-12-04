@@ -1,0 +1,9 @@
+base_tax = 5
+base_manpower = 4
+base_production = 3
+is_city = yes
+owner = AEN
+controller = AEN
+hre = yes
+add_core = AEN
+culture = niter

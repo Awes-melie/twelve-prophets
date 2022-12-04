@@ -1,0 +1,8 @@
+base_tax = 5
+base_manpower = 5
+base_production = 4
+is_city = yes
+culture = ambric
+add_core = MLD
+fort_15th = yes
+hre = yes

@@ -1,0 +1,9 @@
+base_tax = 2
+base_manpower = 2
+base_production = 3
+is_city = yes
+owner = TMK
+controller = TMK
+hre = yes
+culture = toremar
+add_core = TMK

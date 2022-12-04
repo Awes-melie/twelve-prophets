@@ -1,0 +1,8 @@
+base_tax = 5
+base_manpower = 6
+base_production = 5
+is_city = yes
+owner = INV
+controller = INV
+add_core = INV
+culture = ambric

@@ -1,0 +1,8 @@
+base_tax = 3
+base_manpower = 2
+base_production = 2
+is_city = yes
+owner = SVK
+controller = SVK
+add_core = SVK
+culture = malem

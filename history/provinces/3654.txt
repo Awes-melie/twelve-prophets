@@ -1,0 +1,3 @@
+base_manpower = 1
+is_city = yes
+culture = segevaln

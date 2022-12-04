@@ -1,0 +1,9 @@
+base_tax = 7
+base_manpower = 4
+base_production = 4
+is_city = yes
+owner = DTS
+controller = DTS
+hre = yes
+add_core = DTS
+culture = ponter

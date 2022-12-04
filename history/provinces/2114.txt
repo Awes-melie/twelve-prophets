@@ -1,0 +1,9 @@
+base_tax = 2
+base_manpower = 2
+base_production = 2
+is_city = yes
+owner = PNE
+controller = PNE
+hre = yes
+culture = alighara
+add_core = PNE
